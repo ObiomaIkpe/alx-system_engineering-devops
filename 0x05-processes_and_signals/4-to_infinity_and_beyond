@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# To infinity and beyond
-
+#script that displays a text continously
 while true; do
   echo "To infinity and beyond"
   sleep 2
